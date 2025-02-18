@@ -1,0 +1,36 @@
+
+                        modelo de site simples(aula 21 exercicio02)
+
+<body>
+    <header>
+        <h1>Jornal da cidade</h1>
+        <nav>
+            <a href="#">link</a>
+            <a href="#">link</a>
+            <a href="#">lnk</a>
+        </nav>
+    </header>
+    <main>
+        <section id="assunto"></section>
+
+        <article>
+
+            <h1>Noticias do Brasil</h1>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum iste a iure officia, distinctio recusandae, atque at, error sapiente debitis libero sint! Corporis voluptate veritatis deserunt minima ducimus eum excepturi.</p>
+            
+        
+                <p>Artigo escrito por:João</p>
+            <aside>
+
+                <h1>Noticias de esporte</h1>
+            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cumque molestiae veniam doloremque tenetur placeat aut ab quasi sint quam ipsum, nisi et similique delectus dolorum eveniet voluptatum, alias ea sequi.</p>
+           
+                <p>Artigo escrito por:João</p>
+
+                <footer>criado por Jose</footer>
+            </aside>
+        </article>
+    </main>
+    
+</body>
+</html>
